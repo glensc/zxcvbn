@@ -1,0 +1,30 @@
+{
+  "name": "dropbox/zxcvbn",
+  "description": "realistic password strength estimation",
+  "keywords": [
+    "password",
+    "passphrase",
+    "security",
+    "authentication",
+    "strength",
+    "meter",
+    "quality",
+    "estimation",
+    "pattern",
+    "cracking",
+    "scoring",
+    "entropy",
+    "bruteforce"
+  ],
+  "license": "MIT",
+  "type": "component",
+  "homepage": "https://github.com/dropbox/zxcvbn",
+  "authors": [
+    {
+        "name": "Dan Wheeler"
+    }
+  ],
+  "require": {
+    "robloach/component-installer": "*"
+  }
+}
